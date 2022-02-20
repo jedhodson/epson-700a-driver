@@ -1,0 +1,1 @@
+pub const NET_BUFFER_MAX_SIZE: usize = 4060;
